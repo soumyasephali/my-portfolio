@@ -1,0 +1,7 @@
+# errors.log
+# .vscode/
+# requests.log
+
+*.log
+abc/
+.vscode/

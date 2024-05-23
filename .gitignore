@@ -3,5 +3,4 @@
 # requests.log
 
 *.log
-abc/
 .vscode/
